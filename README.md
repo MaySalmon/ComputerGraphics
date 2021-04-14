@@ -1,12 +1,5 @@
-# Computer Graphics 203.3710
-## Students Team data
-
-Name: 'saar nahmanson'  
-Student Number: '204380265'
-
-Name: 'May Salmon'  
-Student Number: '308571108'
-
+# Computer Graphics course - 2021
+ 
 ### Lecturer
 *Roi Poranne*
 
